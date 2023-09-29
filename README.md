@@ -1,1 +1,1 @@
-# Anamoly-Detection-in-Transactions
+So this is how we can perform anomaly detection in transactions using Machine Learning and Python. Anomaly detection in transactions means identifying unusual or unexpected patterns within transactions or related activities. These patterns, known as anomalies or outliers, deviate significantly from the expected norm and could indicate irregular or fraudulent behaviour.
